@@ -3,7 +3,7 @@ import React from 'react';
 export default function Home() {
   const skills = [
     'PostgreSQL', 'AWS', 'Azure', 
-    'Cyber Security', 'Cloud Computing', 'c language' , 'python' , 'Linux' , 'Reading' ,'Sleeping'
+    'Cyber Security', 'Cloud Computing', 'c language' , 'python' , 'Linux' , 'NETWORKING'
   ];
 
   return (
